@@ -1,0 +1,25 @@
+{
+  "name": "edmondscommerce/xctrack",
+  "description": "PHP library with utilities for working with XCTrack",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "EdmondsCommerce\\XcTrack\\": [
+        "src/"
+      ]
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "EdmondsCommerce\\XcTrack\\": [
+        "tests/"
+      ]
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.3"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "taskType": "CLASSIC",
+  "version": 1,
+  "turnpoints": [
+    {
+      "radius": 400.0,
+      "waypoint": {
+        "lon": -2.4222190380096436,
+        "lat": 54.20397186279297,
+        "altSmoothed": 0.0,
+        "name": "WHE-0",
+        "description": "WHE-0",
+        "isUnknown": false
+      },
+      "type": "TAKEOFF"
+    },
+    {
+      "radius": 1000.0,
+      "waypoint": {
+        "lon": -2.4273769855499268,
+        "lat": 54.19684600830078,
+        "altSmoothed": 0.0,
+        "name": "WHE-1",
+        "description": "WHE-1",
+        "isUnknown": false
+      },
+      "type": "SSS"
+    },
+    {
+      "radius": 1400.0,
+      "waypoint": {
+        "lon": -2.3886594772338867,
+        "lat": 54.24782180786133,
+        "altSmoothed": 0.0,
+        "name": "WHE-2",
+        "description": "WHE-2",
+        "isUnknown": false
+      },
+      "type": "ESS"
+    },
+    {
+      "radius": 1400.0,
+      "waypoint": {
+        "lon": -2.3691511154174805,
+        "lat": 54.22072219848633,
+        "altSmoothed": 0.0,
+        "name": "WHE-3",
+        "description": "WHE-3",
+        "isUnknown": false
+      }
+    }
+  ],
+  "sss": {
+    "type": "RACE",
+    "direction": "ENTER",
+    "timeGates": [
+      "12:00:00Z"
+    ]
+  },
+  "goal": {
+    "type": "LINE",
+    "deadline": "23:00:00Z"
+  }
+}
