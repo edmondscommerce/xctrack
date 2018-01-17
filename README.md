@@ -79,6 +79,9 @@ For now just download the files from here. I need to add it to packagist
 
 Use the [Factory](./src/Factory.php) to generate a [Task](./src/Task.php) object from either a passed in array or the `$_GET` super global
 
+### Download File Example
+For a simple example of using this to serve a download, see [./httpdocs/xctsk-download.php](./httpdocs/xctsk-download.php)
+
 ## Tests
 
 Basic tests - run them using:
