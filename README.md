@@ -1,4 +1,5 @@
-## Basic Tools for Creating XCTrack Files
+# Basic Tools for Creating XCTrack Files
+## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 Based roughly on [this](http://xctrack.org/Competition_Interfaces.html)
 
